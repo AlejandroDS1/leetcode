@@ -1,2 +1,53 @@
-# leetcode
-This is my own vault of leetcode solutions.
+# LeetCode Solutions
+
+Structured repository containing selected LeetCode solutions.
+
+The goal is not quantity, but clarity, correctness and clean implementation.  
+Each solution reflects:
+
+- Clear problem understanding
+- Clean and readable code
+- Optimal or near-optimal complexity
+- Consistent structure
+
+Problems are organized by difficulty.
+
+---
+
+## Problems Overview
+
+| Difficulty | # | Name | Languages |
+|------------|---|------|-----------|
+| 🔴 Hard | 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | [Python](hard/1255-Maximum_Score_Words_Formed_by_Letters/Maximum_score_words_formed_by_Letters.py) |
+| 🔴 Hard | 1912 | [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | [Python](hard/1912-Design_Movie_Rental_System/Design_movie_rental_system.py) |
+| 🔴 Hard | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [Python](hard/980-Unique_Paths_III/Unique_paths_III.py) |
+| 🟡 Medium | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [Python](medium/2181-Merge_Nodes_in_Between_Zeros/Merge_nodes_in_between_zeros.py) · [C++](medium/2181-Merge_Nodes_in_Between_Zeros/Merge_nodes_in_between_zeros.cpp) |
+| 🟡 Medium | 3484 | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | [Python](medium/3484-Design_Spreadsheet/Design_spreadsheet.py) |
+| 🟡 Medium | 3508 | [Implement Router](https://leetcode.com/problems/implement-router/) | [Python](medium/3508-Implement_Router/Implement_router.py) |
+
+---
+
+## Languages Used
+
+- Python
+- C++
+
+---
+
+## Notes
+
+- All implementations focus on readability and algorithmic correctness.
+- When multiple languages are present, the goal is to compare paradigms and trade-offs.
+- Complexity considerations are respected in each solution.
+
+---
+
+## Why This Repository
+
+This repository demonstrates:
+
+- Problem-solving ability
+- Data structure knowledge
+- Algorithmic thinking
+- Code clarity
+- Consistency across implementations

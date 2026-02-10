@@ -25,6 +25,7 @@ Problems are organized by difficulty.
 | 🟡 Medium | 3484 | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | [Python](medium/3484-Design_Spreadsheet/Design_spreadsheet.py) |
 | 🟡 Medium | 3508 | [Implement Router](https://leetcode.com/problems/implement-router/) | [Python](medium/3508-Implement_Router/Implement_router.py) |
 | 🟡 Medium | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](medium/62-Unique_paths/Unique_paths.py) |
+| 🟡 Medium | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](medium/63-Unique_paths_II/Unique_paths_II.py) |
 
 ---
 

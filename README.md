@@ -27,6 +27,7 @@ Problems are organized by difficulty.
 | 🟡 Medium | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](medium/62-Unique_paths/Unique_paths.py) |
 | 🟡 Medium | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](medium/63-Unique_paths_II/Unique_paths_II.py) |
 | 🟡 Medium | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](medium/55-Jump_Game/Jump_Game.py) |
+| 🟡 Medium | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python](medium/45-Jump_Game_II/Jump_game_II.py) |
 ---
 
 ## Languages Used

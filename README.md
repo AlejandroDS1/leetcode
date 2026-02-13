@@ -31,6 +31,8 @@ Problems are organized by difficulty.
 | 🟡 Medium | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Python](medium/45-Jump_Game_II/Jump_game_II.py) |
 | 🟡 Medium | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Python](medium/1306-Jump_Game_III/Jump_game_III.py) |
 | 🟢 Easy   | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](easy/1-Two_Sum/Two_sum.py) |
+| 🟢 Easy   | 20 | [Two Sum](https://leetcode.com/problems/valid-parentheses/) | [Python](easy/20-Valid_Parentheses/Valid_parentheses.py) |
+
 ---
 
 ## Languages Used

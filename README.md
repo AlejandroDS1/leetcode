@@ -21,7 +21,7 @@ Problems are organized by difficulty.
 | 🔴 Hard | 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | [Python](hard/1255-Maximum_Score_Words_Formed_by_Letters/Maximum_score_words_formed_by_Letters.py) |
 | 🔴 Hard | 1912 | [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | [Python](hard/1912-Design_Movie_Rental_System/Design_movie_rental_system.py) |
 | 🔴 Hard | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [Python](hard/980-Unique_Paths_III/Unique_paths_III.py) |
-| 🔴 Hard | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Python](medium/1345-Jump_Game_IV/Jump_game_IV.py) |
+| 🔴 Hard | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Python](hard/1345-Jump_Game_IV/Jump_game_IV.py) |
 | 🟡 Medium | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [Python](medium/2181-Merge_Nodes_in_Between_Zeros/Merge_nodes_in_between_zeros.py) · [C++](medium/2181-Merge_Nodes_in_Between_Zeros/Merge_nodes_in_between_zeros.cpp) |
 | 🟡 Medium | 3484 | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | [Python](medium/3484-Design_Spreadsheet/Design_spreadsheet.py) |
 | 🟡 Medium | 3508 | [Implement Router](https://leetcode.com/problems/implement-router/) | [Python](medium/3508-Implement_Router/Implement_router.py) |

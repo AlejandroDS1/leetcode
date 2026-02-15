@@ -1,9 +1,5 @@
 from typing import Optional
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-
+from utils.linked_list import *
 class Solution:
 
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
@@ -57,23 +53,3 @@ class Solution:
                 node = node.next            
 
         return firstNode
-
-def listNode(l):
-
-    fnode = ListNode()
-    node = fnode
-
-    for n in l:
-        node.val = n
-        node.next = ListNode()
-        node = node.next    
-
-    return fnode
-
-sol = Solution().addTwoNumbers(listNode([9,9,9,9,9,9,9]), listNode([9,9,9,9]))
-
-while sol.next:
-    print(sol.val, end="")
-    if sol.next:
-        sol = sol.next
-        

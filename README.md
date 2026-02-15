@@ -34,6 +34,7 @@ Problems are organized by difficulty.
 | 🟡 Medium | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Python](medium\134-Gas_Station\Gas_station.py) |
 | 🟡 Medium | 17 | [Letter Combinations](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](medium\17-Letter_Combinations_of_a_Phone_Number\Letter_combinations_of_a_phone_number.py) |
 | 🟡 Medium | 19 | [Remove Nth Node From the End of the List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](medium\19-Remove_Nth_Node_From_End_of_List\Remove_nth_node_from_end_of_list.py) |
+| 🟡 Medium | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](medium\22_Generate_Parentheses\Generate_parentheses.py) |
 | 🟢 Easy   | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](easy/1-Two_Sum/Two_sum.py) |
 | 🟢 Easy   | 20 | [Two Sum](https://leetcode.com/problems/valid-parentheses/) | [Python](easy/20-Valid_Parentheses/Valid_parentheses.py) |
 | 🟢 Easy   | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python](easy\455-Assign_Cookies\Assign_cookies.py) |

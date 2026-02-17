@@ -40,6 +40,7 @@ Problems are organized by difficulty.
 | 🟢 Easy   | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](easy/1-Two_Sum/Two_sum.py) |
 | 🟢 Easy   | 20 | [Two Sum](https://leetcode.com/problems/valid-parentheses/) | [Python](easy/20-Valid_Parentheses/Valid_parentheses.py) |
 | 🟢 Easy   | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python](easy\455-Assign_Cookies\Assign_cookies.py) |
+| 🟢 Easy   | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Python](easy\401-Binary_Watch.py\Binary_watch.py) |
 ---
 
 ## Languages Used

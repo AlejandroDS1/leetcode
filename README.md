@@ -39,6 +39,7 @@ Problems are organized by difficulty.
 | 🟡 Medium | 397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [Python](medium\397-Integer_Replacement\Integer_replacement.py) |
 | 🟡 Medium | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](medium\22_Generate_Parentheses\Generate_parentheses.py) |
 | 🟡 Medium | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](medium\56-Merge_Intervals\Merge_intervals.py) |
+| 🟡 Medium | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](medium/36-Valid_Sudoku/Valid_sudoku.py) |
 | 🟢 Easy   | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](easy/1-Two_Sum/Two_sum.py) |
 | 🟢 Easy   | 20 | [Two Sum](https://leetcode.com/problems/valid-parentheses/) | [Python](easy/20-Valid_Parentheses/Valid_parentheses.py) |
 | 🟢 Easy   | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python](easy\455-Assign_Cookies\Assign_cookies.py) |

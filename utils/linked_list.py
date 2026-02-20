@@ -28,7 +28,3 @@ def print_linkedNode_as_array(node: ListNode):
             print(", ", end="")
         node = node.next
     print("]")
-    
-l = create_list_node_from_array([1,2,3,4])
-
-print_linkedNode_as_array(l)

@@ -23,6 +23,7 @@ Problems are organized by difficulty.
 | 🔴 Hard | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [Python](hard/980-Unique_Paths_III/Unique_paths_III.py) |
 | 🔴 Hard | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Python](hard/1345-Jump_Game_IV/Jump_game_IV.py) |
 | 🔴 Hard | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](hard\32-Longest_Valid_Parentheses\Longest_valid_parentheses.py) |
+| 🔴 Hard | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](hard\4-Median_of_Two_Sorted_Arrays\Median_of_two_sorted_arrays.py) |
 | 🟡 Medium | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [Python](medium/2181-Merge_Nodes_in_Between_Zeros/Merge_nodes_in_between_zeros.py) · [C++](medium/2181-Merge_Nodes_in_Between_Zeros/Merge_nodes_in_between_zeros.cpp) |
 | 🟡 Medium | 3484 | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | [Python](medium/3484-Design_Spreadsheet/Design_spreadsheet.py) |
 | 🟡 Medium | 3508 | [Implement Router](https://leetcode.com/problems/implement-router/) | [Python](medium/3508-Implement_Router/Implement_router.py) |

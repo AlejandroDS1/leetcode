@@ -45,6 +45,7 @@ Problems are organized by difficulty.
 | 🟢 Easy   | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Python](easy\401-Binary_Watch.py\Binary_watch.py) |
 | 🟢 Easy   | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](easy\26-Remove_Duplicates_from_Sorted_Array\Remove_duplicates_from_sorted_array.py) |
 | 🟢 Easy   | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python](easy\257-Binary_Tree_Paths\Binary_tree_paths.py) |
+| 🟢 Easy | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](easy/58-Length_of_Last_Word/Length_of_last_word.py) |
 ---
 
 ## Languages Used

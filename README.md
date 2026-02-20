@@ -24,6 +24,7 @@ Problems are organized by difficulty.
 | 🔴 Hard | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Python](hard/1345-Jump_Game_IV/Jump_game_IV.py) |
 | 🔴 Hard | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](hard\32-Longest_Valid_Parentheses\Longest_valid_parentheses.py) |
 | 🔴 Hard | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](hard\4-Median_of_Two_Sorted_Arrays\Median_of_two_sorted_arrays.py) |
+| 🔴 Hard | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](hard/23-Merge_k_Sorted_Lists/Merge_k_sorted_lists.py) |
 | 🟡 Medium | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [Python](medium/2181-Merge_Nodes_in_Between_Zeros/Merge_nodes_in_between_zeros.py) · [C++](medium/2181-Merge_Nodes_in_Between_Zeros/Merge_nodes_in_between_zeros.cpp) |
 | 🟡 Medium | 3484 | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) | [Python](medium/3484-Design_Spreadsheet/Design_spreadsheet.py) |
 | 🟡 Medium | 3508 | [Implement Router](https://leetcode.com/problems/implement-router/) | [Python](medium/3508-Implement_Router/Implement_router.py) |
@@ -40,6 +41,7 @@ Problems are organized by difficulty.
 | 🟡 Medium | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](medium\22_Generate_Parentheses\Generate_parentheses.py) |
 | 🟡 Medium | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](medium\56-Merge_Intervals\Merge_intervals.py) |
 | 🟡 Medium | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](medium/36-Valid_Sudoku/Valid_sudoku.py) |
+| 🟡 Medium | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](medium/23-Merge_k_Sorted_Lists/Merge_k_sorted_lists.py) |
 | 🟢 Easy   | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](easy/1-Two_Sum/Two_sum.py) |
 | 🟢 Easy   | 20 | [Two Sum](https://leetcode.com/problems/valid-parentheses/) | [Python](easy/20-Valid_Parentheses/Valid_parentheses.py) |
 | 🟢 Easy   | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python](easy\455-Assign_Cookies\Assign_cookies.py) |
